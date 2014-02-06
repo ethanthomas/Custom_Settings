@@ -51,7 +51,7 @@ public class Settings extends PreferenceActivity  {
             public void onClick(View v) {
 
                 try {
-                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/developer?id=Collin+Guarino")));
+                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(“<insert_developer_id_here>”)));
                 } catch (android.content.ActivityNotFoundException anfe) {
                     startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(“<insert_developer_id_here>”)));
                 }
