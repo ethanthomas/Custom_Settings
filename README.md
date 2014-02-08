@@ -10,6 +10,3 @@ Implementation:
 - Copy the png files to your drawable folder (xxhdpi: "apps", "rate", "shareapp")
 
 Done! Edit the settings.xml with preferences as usual and feel free to change the layout of the header by altering "custom_preferences.xml". 
-
-Here's a demo of the header being used in one of my apps:
-![alt tag](https://drive.google.com/file/d/0B1CHOndaA6foSGxGTUJ1NDBTbEU/edit?usp=sharing)
